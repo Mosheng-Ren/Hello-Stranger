@@ -1,2 +1,2 @@
 # Hello-Stranger
-maybe a notebook
+Do my best to learning！
